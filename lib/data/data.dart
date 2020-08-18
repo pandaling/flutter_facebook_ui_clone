@@ -46,7 +46,7 @@ final List<Story> stories = [
         'https://orel.captainamericagifts.com/pic/7831908_full-clipart-panda-safari-party-animal-clipart-free-download-on-clipartmag.jpg',
   ),
   Story(
-    user: onlineUsers[6],
+    user: onlineUsers[0],
     imageUrl:
         'https://www.pngitem.com/pimgs/m/189-1892757_cute-cat-clipart-cute-cat-clipart-clipart-panda.png',
     isViewed: true,
@@ -57,13 +57,13 @@ final List<Story> stories = [
         'https://www.clipartmax.com/png/middle/47-479236_owl-math-clipart-clipart-panda-free-clipart-images-clip-art-owl-cute.png',
   ),
   Story(
-    user: onlineUsers[9],
+    user: onlineUsers[5],
     imageUrl:
         'https://www.pinclipart.com/picdir/middle/21-215917_baby-pluto-clipart-clipart-panda-free-clipart-images.png',
     isViewed: true,
   ),
   Story(
-    user: onlineUsers[7],
+    user: onlineUsers[4],
     imageUrl:
         'https://www.clipartmax.com/png/full/265-2654938_tiger-cute-cartoon-picture-of-clipart-panda-free-images-clip-art.png',
   ),
@@ -74,7 +74,7 @@ final List<Post> posts = [
     user: currentUser,
     caption: 'Check out these cool puppers',
     timeAgo: '58m',
-    imageUrl: 'https://images.unsplash.com/photo-1525253086316-d0c936c814f8',
+    imageUrl: 'https://orel.captainamericagifts.com/pic/7831908_full-clipart-panda-safari-party-animal-clipart-free-download-on-clipartmag.jpg',
     likes: 1202,
     comments: 184,
     shares: 96,
@@ -94,7 +94,7 @@ final List<Post> posts = [
     caption: 'This is a very good boi.',
     timeAgo: '8hr',
     imageUrl:
-        'https://images.unsplash.com/photo-1575535468632-345892291673?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://www.pngitem.com/pimgs/m/189-1892757_cute-cat-clipart-cute-cat-clipart-clipart-panda.png',
     likes: 894,
     comments: 201,
     shares: 27,
@@ -104,7 +104,7 @@ final List<Post> posts = [
     caption: 'Adventure 🏔',
     timeAgo: '15hr',
     imageUrl:
-        'https://images.unsplash.com/photo-1573331519317-30b24326bb9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        'https://www.pinclipart.com/picdir/middle/21-215917_baby-pluto-clipart-clipart-panda-free-clipart-images.png',
     likes: 722,
     comments: 183,
     shares: 42,
@@ -120,11 +120,11 @@ final List<Post> posts = [
     shares: 9,
   ),
   Post(
-    user: onlineUsers[9],
+    user: onlineUsers[2],
     caption: 'A classic.',
     timeAgo: '1d',
     imageUrl:
-        'https://images.unsplash.com/reserve/OlxPGKgRUaX0E1hg3b3X_Dumbo.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+        'https://www.clipartmax.com/png/full/265-2654938_tiger-cute-cartoon-picture-of-clipart-panda-free-images-clip-art.png',
     likes: 1523,
     shares: 129,
     comments: 301,

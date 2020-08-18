@@ -1,6 +1,6 @@
 # flutter_facebook_ui_clone
 
-A new Flutter project.
+A facebook ui clone get idea from [here](https://github.com/MarcusNg/flutter_facebook_responsive_ui)
 
 ## Getting Started
 
